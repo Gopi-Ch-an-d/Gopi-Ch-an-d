@@ -16,16 +16,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```javascript
-const gopichand = {
-    currentFocus: "Full-Stack Grocery Mobile App 🛒",
-    exploring: ["Next.js", "Prisma", "Socket.io", "Microservices"],
-    passionate_about: "Solving real-world problems with clean code",
-    learning: ["System Architecture", "CI/CD", "Performance Tuning"],
-    collaboration: "Open to exciting full-stack projects",
-    fun_fact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+- 🔭 **Currently working on:** Full-Stack Grocery Mobile App 🛒
+- 🌱 **Exploring:** Next.js, Prisma, Socket.io, Microservices
+- 💡 **Passionate about:** Solving real-world problems with clean code
+- 🧠 **Always learning:** System Architecture, CI/CD, Performance Tuning
+- 🤝 **Open to:** Exciting full-stack project collaborations
+- ⚡ **Fun fact:** I debug with console.log() and I'm not ashamed! 😄
 
 <br clear="right"/>
 
