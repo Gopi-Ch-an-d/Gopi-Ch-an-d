@@ -67,10 +67,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gopichand-git&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopichand-git&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopi-Ch-an-d&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi-Ch-an-d&layout=compact&theme=tokyonight" height="165" />
 </p>
-
 ---
 
 ### 🤝 Let’s Collaborate
