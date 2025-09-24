@@ -1,89 +1,171 @@
-<h1 align="center" style="font-family: 'Times New Roman', Times, serif;">👨‍💻 Hi, I'm Tanuri Gopichand</h1>
+<div align="center">
 
-<p align="center">
-  <img src="/git.gif" alt="Tanuri Gopichand" width="180" height="150" style="border-radius: 50%; object-fit: cover;" />
+# 👋 Hello World! I'm **Tanuri Gopichand**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Scalable+Applications+%F0%9F%92%BB;Always+Learning+New+Tech+%F0%9F%93%9A;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+
+<img src="/git.gif" alt="Tanuri Gopichand" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #58A6FF; box-shadow: 0 0 20px rgba(88, 166, 255, 0.3);" />
+
+### 💫 Crafting digital experiences with passion and precision
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+## 🚀 **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```javascript
+const gopichand = {
+    currentFocus: "Full-Stack Grocery Mobile App 🛒",
+    exploring: ["Next.js", "Prisma", "Socket.io", "Microservices"],
+    passionate_about: "Solving real-world problems with clean code",
+    learning: ["System Architecture", "CI/CD", "Performance Tuning"],
+    collaboration: "Open to exciting full-stack projects",
+    fun_fact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+<br clear="right"/>
+
+---
+
+## 🎯 **Featured Projects**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛍️ **Grocery Mobile App**
+*Full-stack excellence with real-time magic*
+- **Stack**: React Native, NestJS, Prisma
+- **Features**: Real-time updates, Payment integration
+- **Status**: 🚧 In Development
+
+</td>
+<td width="50%">
+
+### 💇 **Glow Grace Salon**
+*Modern salon experience redefined*
+- **Stack**: ReactJS, NestJS, PostgreSQL
+- **Features**: Booking system, Admin panel
+- **Status**: ✅ Completed
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏥 **Caretrack**
+*Healthcare made accessible*
+- **Stack**: Next.js, Prisma, PostgreSQL
+- **Features**: Patient management, Analytics
+- **Status**: ✅ Completed
+
+</td>
+<td width="50%">
+
+### 🎬 **Movie Recommender**
+*AI-powered emotion-based recommendations*
+- **Stack**: Python, Deep Learning, TensorFlow
+- **Features**: Emotion detection, Smart suggestions
+- **Status**: ✅ Completed
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **Frontend Mastery**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,typescript" />
 </p>
 
-<h3 align="center">💻 Full-stack developer dedicated to building sleek, scalable web applications from India</h3>
-
-
-
----
-🚀 About Me
-- 🔭 Currently working on a **Full-Stack Grocery Mobile App**  
-- 🌱 Exploring **Next.js**, **Prisma**, and **real-time systems** using **Socket.io**  
-- 💡 Love solving real-world problems through clean code and thoughtful design  
-- 🧠 Always learning: **System Architecture**, **CI/CD**, and **Performance Tuning**
-
----
-
-### 💼 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🛍️ **Grocery Mobile App** | Full-stack app with real-time updates, Stripe/Razorpay integration, and admin panel. |
-| 🏫 **College Management System** | Built using J2SE, J2EE, MySQL, HTML/CSS/JS. |
-| 💇 **Glow Grace Salon** | Modern salon app using ReactJS, TailwindCSS, and NestJS, Prisma , Postgresql. |
-| 🎬 **Movie Recommender** | Emotion-based recommendation system using Python Deep Learning. |
-| 🍦 **SweetScoop Ice Cream** | Clean and responsive ReactJS, TailwindCSS frontend. |
-| 🏥 **Caretrack** | Healthcare app using Next.js,TailwindCSS, Prisma, PostgreSQL. |
-| 🍗 **KFC Food Ordering** | UI-focused food delivery website using frontend technologies. |
-
----
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**  
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-
-**Backend**  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![J2EE](https://img.shields.io/badge/-J2EE-007396?style=flat&logo=java&logoColor=white)
-![J2SE](https://img.shields.io/badge/-J2SE-ED8B00?style=flat&logo=java&logoColor=white)
-
-**Database & ORM**  
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white)
-
-**Other Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![SDLC](https://img.shields.io/badge/-SDLC-000000?style=flat&logo=checkmarx&logoColor=white)
-
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gopi-Ch-an-d&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi-Ch-an-d&layout=compact&theme=tokyonight" height="165" />
+### **Backend Powerhouse**
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,spring,java,nodejs,python" />
 </p>
+
+### **Database & Storage**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma,mongodb" />
+</p>
+
+### **DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,eclipse" />
+</p>
+
+</div>
+
 ---
 
-### 🤝 Let’s Collaborate
+## 📊 **GitHub Analytics**
 
-- 👯 I’m looking to collaborate on full-stack apps, e-commerce platforms, and real-time systems  
-- 🤝 I’m looking for help with backend performance tuning, test automation, and deployment workflows
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gopi-Ch-an-d&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
+
+<br><br>
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Gopi-Ch-an-d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="200" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi-Ch-an-d&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="200" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopi-Ch-an-d&theme=tokyonight&hide_border=true" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopi-Ch-an-d&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
 
 ---
 
-### 📫 Connect with Me
+## 🤝 **Let's Build Something Amazing Together**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanuri-gopichand-32a90a241)  
-📧 Email: [tanurigopichand007@gmail.com](mailto:tanurigopichand007@gmail.com)
+<div align="center">
 
----
+### 💡 **Open to Collaboration On:**
+- 🚀 Full-stack applications & E-commerce platforms
+- ⚡ Real-time systems & Microservices architecture  
+- 🔧 Performance optimization & Test automation
+- 🌐 Open source projects & Innovative startups
 
-<p align="center">Thanks for visiting my GitHub profile! 🌟</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📬 **Connect With Me**
+
+<a href="https://www.linkedin.com/in/tanuri-gopichand-32a90a241">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:tanurigopichand007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Gopi-Ch-an-d">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+### 💖 **Thanks for visiting!**
+<img src="https://komarev.com/ghpvc/?username=Gopi-Ch-an-d&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer" width="100%" />
+
+</div>
