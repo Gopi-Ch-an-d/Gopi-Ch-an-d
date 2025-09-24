@@ -84,22 +84,22 @@
 
 ### **Frontend Mastery**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,typescript" />
 </p>
 
 ### **Backend Powerhouse**
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,spring,java" />
+  <img src="https://skillicons.dev/icons?i=nestjs,spring,java,nodejs,python" />
 </p>
 
 ### **Database & Storage**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma,mongodb" />
 </p>
 
 ### **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,eclipse" />
 </p>
 
 </div>
@@ -160,7 +160,7 @@
 <br><br>
 
 ### 💖 **Thanks for visiting!**
-<img src="https://komarev.com/ghpvc/?username=Gopi-Ch-an-d&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=Gopi-Ch-an-d&color=blue)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer" width="100%" />
 
