@@ -84,22 +84,22 @@
 
 ### **Frontend Mastery**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,typescript" />
 </p>
 
 ### **Backend Powerhouse**
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,spring,java,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=nestjs,spring,java" />
 </p>
 
 ### **Database & Storage**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma" />
 </p>
 
 ### **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,eclipse" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" />
 </p>
 
 </div>
