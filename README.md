@@ -13,15 +13,21 @@
 </div>
 
 ## 🚀 **About Me**
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 **Currently working on:** Full-Stack Grocery Mobile App 🛒
-- 🌱 **Exploring:** Next.js, Prisma, Socket.io, Microservices
-- 💡 **Passionate about:** Solving real-world problems with clean code
-- 🧠 **Always learning:** System Architecture, CI/CD, Performance Tuning
-- 🤝 **Open to:** Exciting full-stack project collaborations
-- ⚡ **Fun fact:** I debug with console.log() and I'm not ashamed! 😄
+💻 Currently working on: Full-stack projects using Java, Servlets, MySQL, React, and Next.js
+
+🌱 Exploring: NestJS, Prisma ORM, TypeScript, and Spring Boot for scalable backend systems
+
+⚙️ Expertise in: Building data-driven applications with JDBC, Servlets, MySQL, and modern front-end tools like Bootstrap, Tailwind, and React
+
+💡 Passionate about: Designing scalable web applications and optimizing system performance
+
+🧠 Always learning: System Design, Microservices, and Cloud Deployments
+
+🤝 Open to: Collaborating on innovative Java or full-stack web development projects
+
+⚡ Fun fact: I love debugging complex issues and turning them into elegant code solutions 😄
 
 <br clear="right"/>
 
