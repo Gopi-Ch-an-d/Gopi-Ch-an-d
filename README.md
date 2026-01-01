@@ -122,28 +122,6 @@
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<img src="https://images.stockcake.com/public/7/b/4/7b445bd2-e4ed-471d-91fc-f29578abac79_large/gleaming-trophy-victory-stockcake.jpg" width="10" height="10" alt="trophy" />
-
-<br><br>
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Gopi-Ch-an-d&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&card_width=400" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com/?user=Gopi-Ch-an-d&theme=radical&hide_border=false&card_width=400" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi-Ch-an-d&layout=compact&theme=radical&hide_border=false&langs_count=10&card_width=600" alt="Top Languages" />
 
 <br><br>
 
