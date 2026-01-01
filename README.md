@@ -2,9 +2,9 @@
 
 # 👋 Hello World! I'm **Tanuri Gopichand**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Scalable+Applications+%F0%9F%92%BB;Always+Learning+New+Tech+%F0%9F%93%9A;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Scalable+Applications+%F0%9F%92%BB;Always+Learning+New+Tech+%F0%9F%93%9A;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
-<img src="/git.gif" alt="Tanuri Gopichand" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #58A6FF; box-shadow: 0 0 20px rgba(88, 166, 255, 0.3);" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400" height="300" />
 
 ### 💫 Crafting digital experiences with passion and precision
 
@@ -13,7 +13,7 @@
 </div>
 
 ## 🚀 **About Me**
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 💻 Currently working on: Full-stack projects using Java, Servlets, MySQL, React, and Next.js
 
@@ -90,22 +90,27 @@
 
 ### **Frontend Mastery**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,typescript,bootstrap,javascript" />
 </p>
 
 ### **Backend Powerhouse**
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,spring,java" />
+  <img src="https://skillicons.dev/icons?i=nestjs,spring,java,nodejs,express" />
 </p>
 
 ### **Database & Storage**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma,mongodb" />
+</p>
+
+### **Languages & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,cpp" />
 </p>
 
 ### **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,docker" />
 </p>
 
 </div>
@@ -116,24 +121,50 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gopi-Ch-an-d&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Gopi-Ch-an-d&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" width="100%" />
 
 <br><br>
 
 <table>
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Gopi-Ch-an-d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="200" />
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Gopi-Ch-an-d&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" />
 </td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi-Ch-an-d&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="200" />
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopi-Ch-an-d&theme=radical&hide_border=false" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopi-Ch-an-d&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi-Ch-an-d&layout=compact&theme=radical&hide_border=false&langs_count=10" width="50%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopi-Ch-an-d&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<br><br>
+
+### 📈 **Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopi-Ch-an-d&theme=redical&hide_border=false&area=true&custom_title=Contribution%20Graph" width="100%" />
+
+</div>
+
+---
+
+## 💻 **Coding Activity**
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gopi-Ch-an-d&theme=radical" width="100%" />
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gopi-Ch-an-d&theme=radical" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gopi-Ch-an-d&theme=radical" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -162,12 +193,18 @@
 <a href="https://github.com/Gopi-Ch-an-d">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://x.com/yourusername">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 <br><br>
 
 ### 💖 **Thanks for visiting!**
-![Profile Views](https://komarev.com/ghpvc/?username=Gopi-Ch-an-d&color=blue)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer" width="100%" />
+<img src="https://visitcount.itsvg.in/api?id=Gopi-Ch-an-d&icon=5&color=6" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=twinkling" width="100%" />
 
 </div>
