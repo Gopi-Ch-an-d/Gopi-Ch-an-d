@@ -95,7 +95,7 @@
 
 ### **Backend Powerhouse**
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,spring,java,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nestjs,spring,java" />
 </p>
 
 ### **Database & Storage**
@@ -103,9 +103,14 @@
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma,mongodb" />
 </p>
 
-### **Languages & Tools**
+### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,typescript,javascript" />
+</p>
+
+### **Design & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,flutter,wordpress" />
 </p>
 
 ### **DevOps & Tools**
