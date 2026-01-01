@@ -126,7 +126,7 @@
 
 <div align="center">
 
-<img src="https://images.stockcake.com/public/7/b/4/7b445bd2-e4ed-471d-91fc-f29578abac79_large/gleaming-trophy-victory-stockcake.jpg" width="100%" alt="trophy" />
+<img src="https://images.stockcake.com/public/7/b/4/7b445bd2-e4ed-471d-91fc-f29578abac79_large/gleaming-trophy-victory-stockcake.jpg" width="10" height="10" alt="trophy" />
 
 <br><br>
 
