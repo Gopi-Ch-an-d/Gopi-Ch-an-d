@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Scalable+Applications+%F0%9F%92%BB;Always+Learning+New+Tech+%F0%9F%93%9A;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400" height="300" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" width="400" />
 
 ### 💫 Crafting digital experiences with passion and precision
 
@@ -13,7 +13,7 @@
 </div>
 
 ## 🚀 **About Me**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 💻 Currently working on: Full-stack projects using Java, Servlets, MySQL, React, and Next.js
 
@@ -126,27 +126,29 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gopi-Ch-an-d&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Gopi-Ch-an-d&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="trophy" />
 
 <br><br>
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Gopi-Ch-an-d&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gopi-Ch-an-d&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&card_width=400" alt="GitHub Stats" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopi-Ch-an-d&theme=radical&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=Gopi-Ch-an-d&theme=radical&hide_border=false&card_width=400" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi-Ch-an-d&layout=compact&theme=radical&hide_border=false&langs_count=10" width="50%" />
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi-Ch-an-d&layout=compact&theme=radical&hide_border=false&langs_count=10&card_width=600" alt="Top Languages" />
 
 <br><br>
 
 ### 📈 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopi-Ch-an-d&theme=redical&hide_border=false&area=true&custom_title=Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopi-Ch-an-d&theme=github-compact&hide_border=false&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -156,17 +158,25 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gopi-Ch-an-d&theme=radical" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gopi-Ch-an-d&theme=radical" width="100%" alt="Profile Summary" />
 
-<br>
+<br><br>
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gopi-Ch-an-d&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gopi-Ch-an-d&theme=radical" alt="Repos per Language" />
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gopi-Ch-an-d&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gopi-Ch-an-d&theme=radical" alt="Most Commit Language" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gopi-Ch-an-d&theme=radical" alt="Stats" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gopi-Ch-an-d&theme=radical" alt="Productive Time" />
 </td>
 </tr>
 </table>
@@ -189,24 +199,21 @@
 
 ### 📬 **Connect With Me**
 
-<a href="https://www.linkedin.com/in/tanuri-gopichand-32a90a241">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/tanuri-gopichand-32a90a241" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:tanurigopichand007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://github.com/Gopi-Ch-an-d">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://x.com/yourusername">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://github.com/Gopi-Ch-an-d" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br><br>
 
 ### 💖 **Thanks for visiting!**
 
-<img src="https://visitcount.itsvg.in/api?id=Gopi-Ch-an-d&icon=5&color=6" />
+<img src="https://komarev.com/ghpvc/?username=Gopi-Ch-an-d&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 <br><br>
 
